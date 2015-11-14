@@ -1,0 +1,2 @@
+amazon-mws==0.2.3
+requests==2.8.1
